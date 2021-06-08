@@ -1,5 +1,7 @@
 # R_Do_it
 
+http://www.yes24.com/Product/Goods/43868089
+
 "Do it! 쉽게 배우는 R 데이터 분석 (이지스퍼블리싱)" 교재의 실습파일입니다. </br>
 
 Do_it_1.R 파일은 3-5장 내용을 포함하고 있으며, </br>
